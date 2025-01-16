@@ -1,9 +1,7 @@
 <h1 align="center">Merhaba 👋, ben Lazizjon Doliqulov</h1>
 <h3 align="center">Türkiye'den tutkulu bir ön uç geliştiricisi</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=latediaz&label=Profil%20Ziyaretleri&color=0e75b6&style=flat" alt="latediaz" />
-</p>
+
 
 - 🔭 Şu anda **SQL** üzerinde çalışıyorum.  
 - 🌱 Şu anda **SQL, C#, HTML, CSS** öğreniyorum.  
@@ -71,7 +69,10 @@
   </a>
 </p>
 
----
+
+---<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=latediaz&label=Profil%20Ziyaretleri&color=0e75b6&style=flat" alt="latediaz" />
+</p>
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=latediaz&show_icons=true&locale=tr&layout=compact" alt="En Çok Kullanılan Diller" />
