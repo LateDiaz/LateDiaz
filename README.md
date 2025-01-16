@@ -19,7 +19,7 @@
   <a href="https://twitter.com/ttwakm" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-  <a href="[https://linkedin.com/in/ttwakm](https://www.linkedin.com/feed/)" target="_blank">
+  <a href="https://www.linkedin.com/in/ttw-akm-08030b347/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://instagram.com/latediaz" target="_blank">
